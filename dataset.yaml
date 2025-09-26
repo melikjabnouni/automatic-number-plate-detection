@@ -1,0 +1,7 @@
+# dataset.yaml
+train: /content/dataset/train/images # Chemin vers les images d'entraînement
+val: /content/dataset/valid/images # Chemin vers les images de validation
+test: /content/dataset/dataset/test/images # Chemin vers les images de test
+
+nc: 1 # Nombre de classes
+names: ["license_plate"] # Nom de la classe
